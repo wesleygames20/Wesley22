@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"battlerName":"Pixel","characterIndex":0,"characterName":"Pixel","classId":1,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"Pixel","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pixel","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"L","characterIndex":0,"characterName":"L","classId":2,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"L9]","traits":[],"initialLevel":1,"maxLevel":99,"name":"Thales","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"core2","characterIndex":0,"characterName":"core","classId":4,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"rgfeefed","traits":[],"initialLevel":1,"maxLevel":99,"name":"Paulo","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Gabs","characterIndex":0,"characterName":"Gabs","classId":3,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"Gabs","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gabs?","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":2,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Teste","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"efjdoefpoe","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gabs","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"rggrgr","characterIndex":0,"characterName":"Maria11","classId":3,"equips":[0,0,0,3,4],"faceIndex":0,"faceName":"Marine","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marine","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"prometheus","characterIndex":0,"characterName":"Rosto23","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Confiante","traits":[],"initialLevel":1,"maxLevel":99,"name":"Prometheus","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"Marine","characterIndex":0,"characterName":"Marine1","classId":4,"equips":[8,0,0,0,0],"faceIndex":0,"faceName":"Rostofeliz1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marine","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":2,"equips":[0,0,2,0,0],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dorivaldo","nickname":"","note":"","profile":"Um entregador de outro mundo"},
+{"id":11,"battlerName":"çm,pfemfpe","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marine?","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"Rocket2","characterIndex":0,"characterName":"bgrtghr","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"oefeopfjpe","traits":[],"initialLevel":4,"maxLevel":99,"name":"Rocket","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":14,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":15,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":16,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":17,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":18,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":19,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":20,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
